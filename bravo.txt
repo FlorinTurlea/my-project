@@ -1,1 +1,4 @@
 Hello Bravo World!
+Buna ziua! Sunt incepator si vreau sa vad cum functioneaza git si github!
+Spre exemplu acest fisier este de tip text si nu cred ca este de prea mare ajutor in programare si as vrea sa invat cum sa fac un fisier de tip javascript.
+
